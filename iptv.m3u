@@ -4,6 +4,8 @@
 https://raw.githubusercontent.com/football-match/hls/main/AstonVilla_ManchesterUnited_16-01-2022/file.m3u8
 #EXTINF:-1 ,20:00 14-01-2021 Senegal vs Guinea (BLV Người Thỏ)
 https://raw.githubusercontent.com/football-match/hls/main/Senegal_Guinea_13-01-2022/file.m3u8
+#EXTINF:-1 ,02:45 14-01-2021 Liverpool vs Arsenal (BLV Cáp Tần)
+https://raw.githubusercontent.com/football-match/hls/main/Liverpool_Arsenal_14-01-2022/file.m3u8
 #EXTINF:-1 ,02:00 13-01-2022 Barcelona vs Real Madrid (Free Sport Player)
 https://raw.githubusercontent.com/football-match/hls/main/Barcelona_RealMadrid_13-01-2022/file.m3u8
 #EXTINF:-1 ,20:00 12-01-2022 Tunisia - Mali
